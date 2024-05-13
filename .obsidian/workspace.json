@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "1636655d68f2d65b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3b3e102a1317818",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d831fe6075d3e528",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "764c25a3bb355318",
+    "type": "split",
+    "children": [
+      {
+        "id": "77d717f20587bb08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4db7b155d4c5dfa1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "552089b8d1f8d19f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe311669a91936b4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c3b4b67e0e7163d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a60f5264d2180d66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe78d91cbb39b9a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06e2de5cd8355523",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2f3909851687105",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e0fbd2ad317e02a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d831fe6075d3e528",
+  "lastOpenFiles": [
+    "main.py",
+    "Запросы на корректировку данных в связанных таблицах/Запросы на добавление, связанные таблицы.md",
+    "Группировка данных по нескольким столбцам.md",
+    "Запросы на выборку, соединение таблиц/Запросы для нескольких таблиц со вложенными запросами.md",
+    "time/DATEDIFF.md",
+    "Запросы на выборку, соединение таблиц/Табличка Джоинов.md",
+    "alias.md",
+    "Связи между таблицами/Создание таблицы с внешними ключами.md",
+    "Связи между таблицами/Связь «многие ко многим».md",
+    "Связи между таблицами/Связь «один ко многим».md",
+    "Запросы на корректировку данных в связанных таблицах/Запросы на обновление, связанные таблицы.md",
+    "Запросы на корректировку данных в связанных таблицах",
+    "Операция соединение, использование USING().md",
+    "Оператор LIMIT.md",
+    "Вложенный запрос, операторы ANY и ALL.md",
+    "Вложенные запросы.md",
+    "Запросы на выборку, соединение таблиц/Вложенные запросы в операторах соединения.md",
+    "Запросы на выборку, соединение таблиц/Внешнее соединение LEFT и RIGHT OUTER JOIN.md",
+    "Запросы на выборку, соединение таблиц/Запросы на выборку из нескольких таблиц.md",
+    "Запросы на выборку, соединение таблиц/Перекрестное соединение CROSS JOIN.md",
+    "Запросы на выборку, соединение таблиц/Соединение INNER JOIN.md",
+    "time/imgs/Pasted image 20240508101813.png",
+    "Связи между таблицами/Действия при удалении записи главной таблицы.md",
+    "Запросы на выборку, соединение таблиц",
+    "time/imgs/Pasted image 20240506172443.png",
+    "Связи между таблицами",
+    "time/MONTHNAME.md",
+    "time/MONTH.md",
+    "time/imgs",
+    "time/imgs/Pasted image 20240505121410.png",
+    "правило.md",
+    "time"
+  ]
+}
